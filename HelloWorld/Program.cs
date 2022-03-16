@@ -10,8 +10,7 @@ namespace ConsoleApplication
     {
         public static void Main(string[] args)
         {
-            var name = System.Environment.MachineName;
-            Console.WriteLine(name);
+            Console.WriteLine("In Development Branch");
         }
     }
 }
