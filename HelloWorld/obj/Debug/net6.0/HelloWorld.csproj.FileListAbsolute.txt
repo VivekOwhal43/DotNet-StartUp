@@ -1,0 +1,15 @@
+/home/vivek/bridgelabz/net-practice/DotNet-StartUp/HelloWorld/bin/Debug/net6.0/HelloWorld
+/home/vivek/bridgelabz/net-practice/DotNet-StartUp/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/home/vivek/bridgelabz/net-practice/DotNet-StartUp/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/home/vivek/bridgelabz/net-practice/DotNet-StartUp/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/home/vivek/bridgelabz/net-practice/DotNet-StartUp/HelloWorld/bin/Debug/net6.0/ref/HelloWorld.dll
+/home/vivek/bridgelabz/net-practice/DotNet-StartUp/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/home/vivek/bridgelabz/net-practice/DotNet-StartUp/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/home/vivek/bridgelabz/net-practice/DotNet-StartUp/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/vivek/bridgelabz/net-practice/DotNet-StartUp/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/home/vivek/bridgelabz/net-practice/DotNet-StartUp/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/home/vivek/bridgelabz/net-practice/DotNet-StartUp/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/vivek/bridgelabz/net-practice/DotNet-StartUp/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/home/vivek/bridgelabz/net-practice/DotNet-StartUp/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
+/home/vivek/bridgelabz/net-practice/DotNet-StartUp/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/home/vivek/bridgelabz/net-practice/DotNet-StartUp/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
