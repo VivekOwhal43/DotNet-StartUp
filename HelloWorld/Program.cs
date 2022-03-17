@@ -4,6 +4,8 @@
 //var number = System.Environment.MachineName;
 //Console.WriteLine("Your Machine Name is " +number);
 using System;
+using System.Reflection.Metadata;
+
 namespace ConsoleApplication
 {
     public class Program
@@ -12,6 +14,8 @@ namespace ConsoleApplication
         {
             var name = System.Environment.MachineName;
             Console.WriteLine(name);
+            Human human =new Human();
+            human.canRun();
         }
     }
 }
