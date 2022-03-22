@@ -5,6 +5,7 @@
 //Console.WriteLine("Your Machine Name is " +number);
 using System;
 using System.Reflection.Metadata;
+using HelloWorld.ClassConcept;
 
 namespace ConsoleApplication
 {
@@ -16,6 +17,12 @@ namespace ConsoleApplication
             Console.WriteLine(name);
             Human human =new Human();
             human.canRun();
+            AccType accType = new AccType();
+            accType.setAccTypeDetails();
+            accType.accHolderName="Vivek Owhal";
+            accType.accNumber=112233;
+            accType.getAccTypeDetails();
+            //Console.WriteLine(accType.accHolderName);
         }
     }
 }
